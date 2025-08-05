@@ -50,17 +50,17 @@ Desenvolver uma plataforma web completa para gerenciamento de viagens, composta 
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/RinoaYK">
-        <img src="https://github.com/RinoaYK.png" width="100px">
-        <br>
-        <sub><b>Lídia</b></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lettymoon">
         <img src="https://github.com/lettymoon.png" width="100px">
         <br>
         <sub><b>Letícia</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RinoaYK">
+        <img src="https://github.com/RinoaYK.png" width="100px">
+        <br>
+        <sub><b>Lídia</b></sub>
       </a>
     </td>
   </tr>
